@@ -9,6 +9,8 @@
   <b>Research Question</b> : How is the e-commerce marketplace performing over time in terms of GMV, order volume, cancellations, and repeat buyers?”
 </p>
 
+---
+
 ### 💼 Business Problem
 <p>
 The marketplace wants to understand how it’s performing over time to make better business decisions. 
