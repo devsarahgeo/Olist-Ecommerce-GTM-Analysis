@@ -33,7 +33,7 @@ In short: "How can the marketplace improve revenue, reduce cancellations, and re
 
 ## ⚙️ Methodology 
 
-<h3>1. Data Ingestion & Orchestration (Apache Airflow)</h3>
+<h3>1.</h3>
 
 <h3> Dataset Used:</h3> 
 Youtube Live Api considering top 120 channels high performing videos with subscriber count greater than or equal to 10k
