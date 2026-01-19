@@ -12,7 +12,7 @@ To address this, I analyzed the data focusing on GMV (Gross Merchandise Value), 
 <p>
   How is the e-commerce marketplace performing over time in terms of GMV, order volume, cancellations, and repeat buyers?”
 </p>
-
+---
 ### 💼 Business Problem
 <p>
 Olist marketplace wanted to understand trends in order volumes, cancellations, and repeat buyers over time, as these metrics affect revenue and customer retention. Without this insight, management cannot identify growth opportunities or operational challenges.
