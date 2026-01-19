@@ -2,31 +2,33 @@
 
 ## 🧭 Executive Summary 
 <p>
-  This analysis tracks the e-commerce marketplace’s performance over time, focusing on GMV, order volume, cancellations, and repeat buyers. Insights reveal top-performing sellers, revenue-driving categories, and patterns in customer behavior to guide business decisions.
-</p>
+A friend who works as a manager at <b>Olist</b> shared their marketplace data with me. <b>I noticed</b> inconsistencies and gaps in order volumes, high cancellation rates, and unclear patterns in repeat buyers, which made it difficult to understand marketplace performance. 
 
-<p>
-  <b>Research Question</b> : How is the e-commerce marketplace performing over time in terms of GMV, order volume, cancellations, and repeat buyers?”
+To address this, I analyzed the data focusing on GMV (Gross Merchandise Value), order volume, cancellations, and repeat buyers. This analysis highlights top-performing sellers, revenue-driving product categories, and patterns in customer behavior, providing actionable insights to guide business decisions and improve operational efficiency.
 </p>
 
 ---
+### ❓ Research Question
+<p>
+  How is the e-commerce marketplace performing over time in terms of GMV, order volume, cancellations, and repeat buyers?”
+</p>
 
 ### 💼 Business Problem
 <p>
-The marketplace wants to understand how it’s performing over time to make better business decisions. 
+Olist marketplace wanted to understand trends in order volumes, cancellations, and repeat buyers over time, as these metrics affect revenue and customer retention. Without this insight, management cannot identify growth opportunities or operational challenges.
   
 Specifically, they need to know:
 <ul>
-<li> Which sellers and product categories drive the most GMV and revenue?</li>
-
-<li> How order volumes and cancellations are trending month-to-month?</li>
-
-<li> How repeat customers behave and which segments are most valuable?</li>
+  <li> Which sellers and product categories drive the most GMV and revenue?</li>
+  
+  <li> How order volumes and cancellations are trending month-to-month?</li>
+  
+  <li> How repeat customers behave and which segments are most valuable?</li>
 </ul
 
-This helps the business identify growth opportunities, reduce operational issues (like cancellations), and improve customer retention.
+Answering these questions helps the business identify growth opportunities, reduce operational issues (like cancellations), and improve customer retention.
 
-In short: "How can the marketplace improve revenue, reduce cancellations, and retain more customers?"
+In short: "How can the marketplace increase revenue, reduce cancellations, and retain more customers?"
 </p>
 
 ---
