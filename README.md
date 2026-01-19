@@ -17,11 +17,11 @@ The marketplace wants to understand how it’s performing over time to make bett
   
 Specifically, they need to know:
 <ul>
-<li> Which sellers and product categories drive the most revenue (GMV).</li>
+<li> Which sellers and product categories drive the most GMV and revenue?</li>
 
-<li> How order volumes and cancellations are trending month-to-month.</li>
+<li> How order volumes and cancellations are trending month-to-month?</li>
 
-<li> How repeat customers behave and which segments are most valuable.</li>
+<li> How repeat customers behave and which segments are most valuable?</li>
 </ul
 
 This helps the business identify growth opportunities, reduce operational issues (like cancellations), and improve customer retention.
