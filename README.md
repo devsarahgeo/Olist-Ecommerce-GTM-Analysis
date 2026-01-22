@@ -128,4 +128,7 @@ This project demonstrates how a modern analytics stack can transform raw YouTube
 content strategy, timing, and topic selection.
 </p>
 
+## Resources Used:
+https://documentation.bloomreach.com/engagement/docs/rfm-segmentation
+
 
