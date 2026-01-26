@@ -1,4 +1,4 @@
-# 🛒 Olist Ecommerce ETL Pipeline & GTM Analysis
+# 🛒 Olist Ecommerce ETL Pipeline & GTM Analysis (Work in progres)
 
 ## 🧭 Executive Summary 
 <p>
