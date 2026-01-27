@@ -48,6 +48,9 @@ Olist Dataset - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
 ## 🧠 Skills & Tech Stack
 <ul>
   <li><strong>Visual Studio Code</strong> – Central development environment</li>
+    <li><strong>PostgreSQL</strong> – Raw Data Store</li>
+  <li><strong>BigQuery</strong> – Cloud Data Warehouse</li>
+
   <li><strong>Looker</strong> – Data visualization and storytelling</li>
   <li><strong>SQL and Python</strong> – Analytical querying</li>
 </ul>
