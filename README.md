@@ -50,7 +50,6 @@ Olist Dataset - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
   <li><strong>Visual Studio Code</strong> – Central development environment</li>
   <li><strong>Power BI</strong> – Data visualization and storytelling</li>
   <li><strong>SQL and Python</strong> – Analytical querying</li>
-  <li>Draw.io for achitecture diagram</li>
 </ul>
 
 ---
@@ -62,8 +61,7 @@ Power BI Report Snapshot:
 
 
 <h3>Architecture Diagram:</h3>
-
-
+<img width="924" height="846" alt="Olist E-commerce Data Pipeline Architecture - visual selection (1)" src="https://github.com/user-attachments/assets/6f5b52c2-d5e6-4a37-ae84-370aa0ec2e65" />
 
 <b>Conclusion:</b>
 
@@ -72,6 +70,17 @@ Power BI Report Snapshot:
 
 
 ## 📂 Impact
+
+
+## 📂 Future Scope - Scalable Implementation (if project gets bigger)
+<ul>
+  <li>Automate ETL: Schedule daily pipelines with Airflow</li>
+
+<li> Data Validation: Add CI/CD checks for schema, nulls, and aggregation sanity.</li>
+
+<li> Cloud Data Warehouse: Store raw and transformed (BI-ready) tables directly in BigQuery or Snowflake, skipping local Postgres for scalability.</li>
+
+</ul>
 
 
 
