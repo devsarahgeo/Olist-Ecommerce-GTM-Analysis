@@ -41,9 +41,8 @@ In short: "How can the marketplace increase revenue, reduce cancellations, and r
 <h3>1. Dataset Used:</h3> 
 Olist Dataset - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
 
-<br>-----
-
----
+<br>
+-----
 
 ## 🧠 Skills & Tech Stack
 <ul>
