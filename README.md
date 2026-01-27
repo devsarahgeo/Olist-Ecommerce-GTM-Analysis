@@ -61,7 +61,7 @@ Power BI Report Snapshot:
 
 
 <h3>Architecture Diagram:</h3>
-<img width="924" height="846" alt="Olist E-commerce Data Pipeline Architecture - visual selection (1)" src="https://github.com/user-attachments/assets/6f5b52c2-d5e6-4a37-ae84-370aa0ec2e65" />
+<img width="863" height="747" alt="Screenshot 2026-01-27 at 12 15 14 PM" src="https://github.com/user-attachments/assets/4f361c8a-4a83-4d78-a5b6-8a27fed42b3a" />
 
 <b>Conclusion:</b>
 
