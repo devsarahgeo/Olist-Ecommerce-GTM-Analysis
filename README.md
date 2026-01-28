@@ -12,7 +12,7 @@ To address this, I analyzed the data focusing on GMV (Gross Merchandise Value), 
 
 ---
 
-## ❓ Research Question
+## ❓ Analysis Questions 
 <p>
   
 ##### GMV:
