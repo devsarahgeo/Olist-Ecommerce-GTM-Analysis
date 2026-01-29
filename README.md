@@ -1,4 +1,4 @@
-# 🛒 Brazilian Ecommerce ETL Pipeline & GTM Analysis 
+# 🛒 Ecommerce Marketplace ETL Pipeline & GTM (Go-To-Market) Analysis 
 
 ## 🧭 Request Type
 Ad-hoc request : Required to complete within 7 days
