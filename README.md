@@ -5,11 +5,11 @@ Ad-hoc request : Required to complete within 7 days
 
 ## 🧭 Executive Summary 
 <p>
-A friend who works as a manager at <b>Olist</b> shared their marketplace data with me. <b>I noticed</b> inconsistencies and gaps in order volumes, high cancellation rates, and unclear patterns in repeat buyers, which made it difficult to understand marketplace performance. 
+When I explored Olist marketplace data, I noticed</b> inconsistencies and gaps in order volumes, high cancellation rates, and unclear patterns in repeat buyers, which made it difficult to understand marketplace performance. 
 
 To address this, I analyzed the data focusing on GMV (Gross Merchandise Value), order volume, cancellations, and repeat buyers. This analysis highlights top-performing sellers, revenue-driving product categories, and patterns in customer behavior, providing actionable insights to guide business decisions and improve operational efficiency.
 
-Pre-2019 (i.e 2016-2018) data was intentionally used to establish a stable baseline, free from pandemic-era distortions, to analyze core marketplace mechanics.
+Pre-2019 (i.e 2016-2018) Olist actual data was intentionally used to establish a stable baseline, free from pandemic-era distortions, to analyze core marketplace mechanics.
 </p>
 
 ---
