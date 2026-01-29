@@ -146,15 +146,15 @@ Customer activity concentrated in Sao Paulo & Rio de Janeiro
 
 **Recommendations**:
 
-**Segment-Specific Marketing:** Implement marketing strategies tailored to each RFM segment to maximize revenue growth and efficiency.
+- **Segment-Specific Marketing:** Implement marketing strategies tailored to each RFM segment to maximize revenue growth and efficiency.
 
--  **Retention of At-Risk High-Value Customers**: Re-engage “Cannot Lose Them” customer segment through targeted campaigns before they churn.
+  -  **Retention of At-Risk High-Value Customers**: Re-engage “Cannot Lose Them” customer segment through targeted campaigns before they churn.
+  
+  -  **Upsell & Monetize Frequent Buyers**: Increase spending among Potential Loyalists via personalized recommendations, cross-selling, and promotions.
 
--  **Upsell & Monetize Frequent Buyers**: Increase spending among Potential Loyalists via personalized recommendations, cross-selling, and promotions.
+- **Leverage Peak Months**: Run special offers, loyalty programs, and targeted campaigns in May and August to capitalize on high GMV periods.
 
-**Leverage Peak Months**: Run special offers, loyalty programs, and targeted campaigns in May and August to capitalize on high GMV periods.
-
-**Geography-Focused Strategy**: Strengthen retention, logistics, and seller support in Sao Paulo and Rio de Janeiro while expanding acquisition efforts in emerging cities.
+- **Geography-Focused Strategy**: Strengthen retention, logistics, and seller support in Sao Paulo and Rio de Janeiro while expanding acquisition efforts in emerging cities.
 
 **Address Cancellations**: Investigate high-cancellation products and sellers, focusing on logistics, inventory management, and category-specific interventions.
 
