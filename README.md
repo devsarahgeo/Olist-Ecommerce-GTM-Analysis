@@ -5,7 +5,7 @@ Ad-hoc request : Required to complete within 7 days
 
 ## 🧭 Executive Summary 
 <p>
-When I was exploring Brazilian E-commerce marketplace current year’s data, the data revealed patterns in orders, cancellations, and repeat buyers, prompting analysis of 2016–2018 data to see if these trends held historically. In the historic data, I noticed</b> inconsistencies and gaps in order volumes, high cancellation rates, and unclear patterns in repeat buyers, which made it challenging to fully understand marketplace performance.
+When I was exploring Brazilian E-commerce marketplace current year’s data, the data revealed patterns in orders, cancellations, and repeat buyers. This prompted an analysis of 2016–2018 data to see if these trends held historically. In the historic data, I noticed</b> inconsistencies and gaps in order volumes, high cancellation rates, and unclear patterns in repeat buyers, which made it challenging to fully understand marketplace performance.
 
 To address this, I analyzed the data focusing on GMV (Gross Merchandise Value), order volume, cancellations, and repeat buyers. This analysis highlights top-performing sellers, revenue-driving product categories, and patterns in customer behavior, providing actionable insights to guide business decisions and improve operational efficiency.
 
