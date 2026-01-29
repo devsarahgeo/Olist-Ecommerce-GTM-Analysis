@@ -5,7 +5,7 @@ Ad-hoc request : Required to complete within 7 days
 
 ## 🧭 Executive Summary 
 <p>
-When I was exploring **Brazilian E-commerce marketplace** current year’s data, the data revealed patterns in orders, cancellations, and repeat buyers, prompting analysis of 2016–2018 data to see if these trends held historically. In the historic data, I noticed</b> inconsistencies and gaps in order volumes, high cancellation rates, and unclear patterns in repeat buyers, which made it challenging to fully understand marketplace performance.
+When I was exploring Brazilian E-commerce marketplace current year’s data, the data revealed patterns in orders, cancellations, and repeat buyers, prompting analysis of 2016–2018 data to see if these trends held historically. In the historic data, I noticed</b> inconsistencies and gaps in order volumes, high cancellation rates, and unclear patterns in repeat buyers, which made it challenging to fully understand marketplace performance.
 
 To address this, I analyzed the data focusing on GMV (Gross Merchandise Value), order volume, cancellations, and repeat buyers. This analysis highlights top-performing sellers, revenue-driving product categories, and patterns in customer behavior, providing actionable insights to guide business decisions and improve operational efficiency.
 
@@ -90,6 +90,10 @@ Olist Dataset - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
 
 <h3>Architecture Diagram:</h3>
 <img width="863" height="747" alt="Screenshot 2026-01-27 at 12 15 14 PM" src="https://github.com/user-attachments/assets/4f361c8a-4a83-4d78-a5b6-8a27fed42b3a" />
+
+<h3>Postgres Snapshot</h3>
+<img width="1461" height="814" alt="Screenshot 2026-01-29 at 5 14 20 PM" src="https://github.com/user-attachments/assets/65e1e763-07a8-4db0-90fb-7d74d2534433" />
+
 
 ---
 
