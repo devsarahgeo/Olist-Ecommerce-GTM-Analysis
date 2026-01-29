@@ -1,4 +1,4 @@
-# 🛒 Olist Ecommerce ETL Pipeline & GTM Analysis (Work in progres) 
+# 🛒 Olist Ecommerce ETL Pipeline & GTM Analysis 
 
 ## 🧭 Request Type
 Ad-hoc request : Required to complete within 7 days
@@ -119,12 +119,9 @@ Looker Report Snapshot:
 <img width="974" height="657" alt="Screenshot 2026-01-29 at 2 10 14 PM" src="https://github.com/user-attachments/assets/aa8d2ba3-db1e-4f78-bbf0-2ac850875ae6" />
 
 
-<b>Conclusion:</b>
-- A seller ma
-
 ---
 
-## 📂 Insights
+## 📂 Business Insights
 
 A few high-value sellers and new customers drive most GMV. Key months and cities provide levers for retention, upselling, and operational improvements, while targeted strategies can reduce cancellations and increase overall revenue
 
