@@ -5,11 +5,10 @@ Ad-hoc request : Required to complete within 7 days
 
 ## 🧭 Executive Summary 
 <p>
-When I was exploring Brazilian E-commerce marketplace current year’s data, the data revealed patterns in orders, cancellations, and repeat buyers. This prompted an analysis of 2016–2018 data to see if these trends held historically. In the historic data, I noticed</b> inconsistencies and gaps in order volumes, high cancellation rates, and unclear patterns in repeat buyers, which made it challenging to fully understand marketplace performance.
+This analysis examines Brazilian e-commerce marketplace data from 2016–2018, focusing on GMV, order volume, cancellations, and repeat buyers to understand core marketplace performance and customer behavior patterns.
 
-To address this, I analyzed the data focusing on GMV (Gross Merchandise Value), order volume, cancellations, and repeat buyers. This analysis highlights top-performing sellers, revenue-driving product categories, and patterns in customer behavior, providing actionable insights to guide business decisions and improve operational efficiency.
+Pre-2019 data was selected to establish a clean baseline, free from pandemic-era distortions that emerged after 2020.
 
-Pre-2019 (i.e 2016-2018) Olist actual data was intentionally used to establish a stable baseline, free from pandemic-era distortions, to analyze core marketplace mechanics.
 </p>
 
 ---
@@ -18,7 +17,7 @@ Pre-2019 (i.e 2016-2018) Olist actual data was intentionally used to establish a
 <p>
 Olist marketplace wanted to understand trends in order volumes, cancellations, and repeat buyers over time, as these metrics affect revenue and customer retention. Without this insight, management cannot identify growth opportunities or operational challenges.
   
-Specifically, they need to know:
+Key Questions:
 <ul>
   <li> Which sellers and product categories drive the most GMV and revenue?</li>
   
@@ -29,27 +28,27 @@ Specifically, they need to know:
 
 Answering these questions helps the business identify growth opportunities, reduce operational issues (like cancellations), and improve customer retention.
 
-In short: "How can the marketplace increase revenue, reduce cancellations, and retain more customers?"
+<b>Core Challenge</b>: How can the marketplace increase revenue, reduce cancellations, and retain more customers?
 </p>
 
 ---
 ## ❓ Analysis Questions 
 <p>
   
-##### GMV:
+#### GMV:
 Which sellers contribute the most to GMV?
 
 Which product categories drive the highest GMV?
 
 How does GMV trend over months? Are there seasonal spikes?
 
-##### Order Volume & Growth
+#### Order Volume & Growth
 
 How many orders are placed per month?
 
 How many new vs returning customers are placing orders?
 
-##### Customer Behavior
+#### Customer Behavior
 
 What is the repeat buyer rate per month?
 
@@ -57,7 +56,7 @@ Which cities or regions have the highest number of active buyers?
 
 Do certain product categories have higher repeat purchases?
 
-##### Operational / Cancellation Metrics
+#### Operational / Cancellation Metrics
 
 What is the order cancellation rate over time?
 
@@ -65,14 +64,14 @@ Are cancellations clustered by seller? Which seller regions are slower to ship?
 
 Which product categories have the most canceled orders?
 
-##### Delivery / Logistics
+#### Delivery / Logistics
 
 What is the average delivery time?
 
 Are certain sellers or cities experiencing delays?
 
 
-##### Customer Segmentation / Clustering
+#### Customer Segmentation / Clustering
 
 Can we segment buyers into high-value / mid-value / low-value groups using RFM (Recency, Frequency, Monetary)?
 
@@ -85,19 +84,23 @@ Which segments contribute most to GMV?
 
 ## ⚙️ Methodology 
 
+Designed a multi-table analytical model using SQL (joins, CTEs, window functions) and Python to derive core e-commerce metrics. Conducted category, regional, and customer segmentation analysis to identify GTM opportunities and growth signals, and communicated insights via Looker dashboards.
+
 <h3>1. Dataset Used:</h3> 
 Olist Dataset - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/
 
-<h3>Architecture Diagram:</h3>
+<h3>2. Architecture Diagram:</h3>
 <img width="863" height="747" alt="Screenshot 2026-01-27 at 12 15 14 PM" src="https://github.com/user-attachments/assets/4f361c8a-4a83-4d78-a5b6-8a27fed42b3a" />
 
-<h3>Postgres Snapshot</h3>
+<h3>3. Database (Postgres) Snapshot</h3>
 <img width="1461" height="814" alt="Screenshot 2026-01-29 at 5 14 20 PM" src="https://github.com/user-attachments/assets/65e1e763-07a8-4db0-90fb-7d74d2534433" />
 
 ## 💻 Git File Structure Explained:
 
 analysis/olist_analysis : This code generates answers for each analysis question and can also be used to validate the final bi analysis results.
+
 analysis/olist_analysis_for_bi: This code generates combined tables to answer multiple business questions for use in a BI tool.
+
 final_demo/Olist-Ecommerce-Analysis: Final demo/business insights showcase made by storing data in Google BigQuery and using Looker to visualize.
 
 ---
@@ -145,13 +148,18 @@ Looker Report Snapshot:
 | **Top Cities**               | Sao Paulo & Rio de Janeiro              |
 
 
-**Customer Insights**:
+**Business Insights, Impact & Recommendations**:
 
 New Customers -> drive majority of GMV
+-> New customers drive the majority(~31%) of GMV, making customer acquisition a primary growth lever. 
+
+Launch targeted campaigns to acquire new customers.
 
 Repeat Customers -> October peak
+-> Repeat customer activity peaks in October, indicating opportunities for targeted retention and promotional strategies. October retention peak suggests timing loyalty campaigns before Q4.
 
 Customer activity concentrated in Sao Paulo & Rio de Janeiro
+-> Customer demand is highly concentrated in Sao Paulo and Rio de Janeiro, revealing both strong core markets and untapped regional expansion opportunities. 
 
 **Recommendations**:
 
@@ -166,12 +174,6 @@ Customer activity concentrated in Sao Paulo & Rio de Janeiro
 - **Geography-Focused Strategy**: Strengthen retention, logistics, and seller support in Sao Paulo and Rio de Janeiro while expanding acquisition efforts in emerging cities.
 
 - **Address Cancellations**: Investigate high-cancellation products and sellers, focusing on logistics, inventory management, and category-specific interventions.
-
----
-## 🚀 Impact
-
-Analysis of 2016–2018 data identifies historical trends in high-value customers, peak sales periods, repeat-buying categories, and key regions. These patterns provide actionable guidance for retention, upselling, and regional strategies that can inform current business decisions.
-We need to comapare this with 2024–2025 data to see if the same trends hold and to measure performance.
 
 ---
 
