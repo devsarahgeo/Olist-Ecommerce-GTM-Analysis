@@ -201,12 +201,12 @@ The business can maximize revenue by focusing marketing and promotional efforts 
 ---
 
 ## ⚡ Future Scope - Scalable Implementation 
-*(If the project expands by adding more historical years)*
+*(If the project needs to handle additional data or extended time periods in the future)*
 
 <ul>
-<li> Data Validation: Add CI/CD checks for schema, nulls, and aggregation sanity.</li>
+<li> <b>Data Validation</b>: Implement CI/CD pipelines to automatically check schema consistency, null values, and aggregation sanity.</li>
 
-<li> Cloud Data Warehouse: Store raw and transformed (BI-ready) tables directly in BigQuery or Snowflake, skipping local Postgres for scalability.</li>
+<li> <b>Cloud Data Warehouse</b>: Store both raw and BI-ready tables directly in BigQuery or Snowflake, bypassing local Postgres to ensure scalability and performance.</li>
 
 </ul>
 
