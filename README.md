@@ -155,23 +155,23 @@ Looker Report Snapshot:
 <ul>
 <li> New customers drive the majority(~31%) of GMV, making customer acquisition a primary growth lever. 
 
- <b><u>Recommendation</u>:</b> Launch targeted campaigns to acquire new customers. 
+ <u><b>Recommendation:</b></u> Launch targeted campaigns to acquire new customers. 
 </li>
 
 <li> Repeat customer activity peaks in October, indicating opportunities for targeted retention and promotional strategies.
 
- <b><u>Recommendation</u>:</b> October retention peak suggests running loyalty campaigns before Q4. </li>
+ <u><b>Recommendation:</b></u> October retention peak suggests running loyalty campaigns before Q4. </li>
 
 <li>Customer activity concentrated in Sao Paulo & Rio de Janeiro. Geographic concentration shows high-value markets.
   
- <b><u>Recommendation</u>:</b> Strengthen retention, logistics, and seller support in Sao Paulo and Rio de Janeiro while expanding acquisition efforts in emerging cities. Run acquisition campaigns and seller onboarding in emerging cities to expand reach. </li>
+ <u><b>Recommendation:</b></u> Strengthen retention, logistics, and seller support in Sao Paulo and Rio de Janeiro while expanding acquisition efforts in emerging cities. Run acquisition campaigns and seller onboarding in emerging cities to expand reach. </li>
 
 <li>
 Customers can be grouped into RFM segments (Recency, Frequency, Monetary). Each segment behaves differently (e.g., frequent high-spenders vs. new low-spenders).
   
 Tailoring campaigns to segments can improve revenue and ROI. Generic campaigns may underperform because they ignore behavioral differences
   
- <b><u>Recommendation</u>:</b> Implement segment-specific marketing strategies tailored to each RFM segment to maximize revenue growth and efficiency:
+ <u><b>Recommendation:</b></u> Implement segment-specific marketing strategies tailored to each RFM segment to maximize revenue growth and efficiency:
 
 - Retain high-value customers with loyalty campaigns
 - Re-engage At-Risk High-Value Customers (“Cannot Lose Them” customer segment) through targeted campaigns before they churn.
@@ -184,7 +184,7 @@ Historical data shows GMV peaks in May and August. These months consistently gen
 
 The business can maximize revenue by focusing marketing and promotional efforts during these peak months.
 
- <b><u>Recommendation</u>:</b> Run special offers, loyalty programs, and targeted campaigns in May and August to capitalize on high GMV periods.
+ <u><b>Recommendation:</b></u> Run special offers, loyalty programs, and targeted campaigns in May and August to capitalize on high GMV periods.
 </li>
 
 <li>
@@ -192,7 +192,7 @@ The business can maximize revenue by focusing marketing and promotional efforts 
   
   High cancellations reduce customer satisfaction, revenue, and operational efficiency.
 
-   <b><u>Recommendation</u>:</b> Investigate and resolve high-cancellation products and sellers. Improve logistics, inventory planning, and category-specific processes to reduce cancellations.
+   <u><b>Recommendation:</b></u> Investigate and resolve high-cancellation products and sellers. Improve logistics, inventory planning, and category-specific processes to reduce cancellations.
   
 </li>
 
