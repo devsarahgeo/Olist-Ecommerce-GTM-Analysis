@@ -1,8 +1,5 @@
 # 🛒 Ecommerce Marketplace ETL Pipeline & GTM (Go-To-Market) Analysis 
 
-## 🧭 Request Type
-Ad-hoc request : Required to complete within 7 days
-
 ## 🧭 Executive Summary 
 <p>
 This analysis examines Brazilian e-commerce marketplace data from 2016–2018, focusing on GMV, order volume, cancellations, and repeat buyers to understand core marketplace performance and customer behavior patterns.
