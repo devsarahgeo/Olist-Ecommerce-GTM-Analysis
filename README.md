@@ -81,11 +81,21 @@ Which segments contribute most to GMV?
 
 ## 💻 Git File Structure Explained:
 
-<strong>analysis/olist_analysis</strong> : This code generates answers for each analysis question and can also be used to validate the final bi analysis results.
+<strong>analysis_notebooks/olist_analysis_with_eda.ipynb</strong> : This code does EDA, generates answers for each analysis question and can also be used to validate the final bi analysis results.
 
-<strong>analysis/olist_analysis_for_bi</strong> : This code generates combined tables to answer multiple business questions for use in a BI tool.
+<strong>analysis_notebooks/olist_analysis_for_bi.ipynb</strong> : This code generates combined tables to answer multiple business questions for use in a BI tool.
 
 <strong>final_demo/Olist-Ecommerce-Analysis</strong> : Final demo/business insights showcase made by storing data in Google BigQuery and using Looker to visualize.
+
+<strong>config</strong> : All paths
+
+<strong>data</strong> : Raw and processed data
+
+<strong>etl</strong> : All ETL steps split into clear stages for ease of testing, replacing
+
+<strong>utils</strong> : Common reusable functions
+
+<strong>pipelines</strong> : A central place to define what runs, in which order, and how. They orchestrate the different ETL steps (extract, transform, load) and ensure everything runs smoothly.
 
 ---
 
